@@ -4,9 +4,9 @@ Trabalho Avaliativo de API
 # Trabalho em Grupo de API REST
 
 ## 👥 Equipe
-* Almir Acacio - [GitHub](https://github.com/seu-usuario)
-* Elisa Barbosa Kappaun - [GitHub](https://github.com/seu-usuario)
-* Maicon Muniz - [GitHub](https://github.com/seu-usuario)
+* Almir Acacio - [GitHub] (https://github.com/AlmirAcacio)
+* Elisa Barbosa Kappaun - [GitHub](https://github.com/elisakappaun-netizen?tab=repositories)
+* Maicon Muniz - [GitHub](https://github.com/NezyMZ)
 * Rafael Couto - [GitHub](https://github.com/seu-usuario)
 * Rebeka Cardoso - [GitHub](https://github.com/seu-usuario)
 
